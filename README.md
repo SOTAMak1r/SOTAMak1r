@@ -1,5 +1,6 @@
 ### Hi, I'm Jacob Junyi Chen 👋 
 
+Talk is cheap. Show me the code. 🧑‍💻
 
 <!--
 **SOTAMak1r/SOTAMak1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
