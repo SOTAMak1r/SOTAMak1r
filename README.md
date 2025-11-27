@@ -3,8 +3,9 @@
 Talk is cheap. Show me the code. 🧑‍💻
 
 
-- Video Generation:
+- Image/Video Generation:
   - [Infinite-Forcing](https://github.com/SOTAMak1r/Infinite-Forcing): long video generation
+  - [iMontage](https://github.com/Kr1sJFU/iMontage): many to many image generation
 
 - World Model:
   - [DeepVerse](https://github.com/SOTAMak1r/DeepVerse): interactive 4d video generation
