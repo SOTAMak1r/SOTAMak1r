@@ -6,8 +6,6 @@ Talk is cheap. Show me the code. 🧑‍💻
 - Image/Video Generation:
   - [Infinite-Forcing](https://github.com/SOTAMak1r/Infinite-Forcing): long video generation
   - [iMontage](https://github.com/Kr1sJFU/iMontage): many to many image generation
-
-- World Model:
   - [DeepVerse](https://github.com/SOTAMak1r/DeepVerse): interactive 4d video generation
   - [Aether](https://github.com/InternRobotics/Aether): unified 4d reconstruction and generation
 
@@ -22,6 +20,4 @@ Talk is cheap. Show me the code. 🧑‍💻
   - [WinT3R](https://github.com/LiZizun/WinT3R): feed-forward 3d/4d reconstruction in a streaming manner
   - [GigaGS](https://open3dvlab.github.io/GigaGS/): city-level 3d surface reconstruction
   - [CoSurfGS](https://gyy456.github.io/CoSurfGS/): large-scale 3d surface reconstruction with distributed learning 
-
-- Datasets:
   - [OmniWorld](https://github.com/yangzhou24/OmniWorld): multi-modal 4d dataset
