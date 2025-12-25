@@ -4,6 +4,7 @@ Talk is cheap. Show me the code. 🧑‍💻
 
 
 - Image/Video Generation:
+  - [VINO](https://github.com/SOTAMak1r/VINO-code): unified visual generator / omni-model (understanding & generation) / world model
   - [iMontage](https://github.com/Kr1sJFU/iMontage): many to many image generation
   - [Infinite-Forcing](https://github.com/SOTAMak1r/Infinite-Forcing): long video generation
   
