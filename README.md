@@ -7,7 +7,7 @@ Talk is cheap. Show me the code. 🧑‍💻
   - [VINO](https://github.com/SOTAMak1r/VINO-code): unified visual generator / omni-model (understanding & generation) / world model
   - [iMontage](https://github.com/Kr1sJFU/iMontage): many to many image generation
   - [Infinite-Forcing](https://github.com/SOTAMak1r/Infinite-Forcing): long video generation
-  
+  - [Tiny-Sora2](https://github.com/SOTAMak1r/Tiny-Sora2): audio-video generation
 
 - World Models, 3D/4D Generation:
   - [DeepVerse](https://github.com/SOTAMak1r/DeepVerse): interactive 4d video generation
